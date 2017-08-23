@@ -10,7 +10,7 @@ Start Chrome
 
 ->
 
-!()[chrome.png]
+![chrome](https://raw.github.com/harukaeru/HTMLPeeker/master/chrome.png)
 
 ->
 
@@ -20,4 +20,4 @@ Start Chrome
 
 ->
 
-!()[deleted.png]
+![deleted](https://raw.github.com/harukaeru/HTMLPeeker/master/deleted.png)
