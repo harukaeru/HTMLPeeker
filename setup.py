@@ -10,7 +10,4 @@ setup(
     author_email='nekoneko.myaomyao@gmail.com',
     license='MIT',
     packages=find_packages(),
-    classifiers=[
-        'Programming Language :: Python :: 3.6',
-    ],
 )
