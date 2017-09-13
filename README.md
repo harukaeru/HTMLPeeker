@@ -40,3 +40,15 @@ Start Chrome
 ->
 
 ![deleted](https://raw.github.com/harukaeru/HTMLPeeker/master/deleted.png)
+
+
+
+### Using as a temporarily server
+
+UseCase: peek html in an unittest
+
+```python
+>>> from peeker import fixpeek
+>>> fixpeek("<h1>Hello :)</h1>")
+Open Browser and Check http://localhost:9000/kaeru_fixpeekertemp.html
+```
